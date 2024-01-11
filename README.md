@@ -1,4 +1,4 @@
-# 🐶 codeamigo
+
 
 ### What is codeamigo?
 codeamigo is a platform that helps people learn to code with an AI assistant. 
